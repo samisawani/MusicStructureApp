@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Structure App</string>
+    <string name="album_art">Album Art</string>
+    <string name="play_previous">play previous</string>
+    <string name="play_or_pause">play or pause</string>
+    <string name="play_next">play next</string>
+    <string name="go_to_now_playing_action_button">go_to_now_playing_action_button</string>
+    <string name="now_playing">now playing</string>
+</resources>
